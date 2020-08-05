@@ -1,0 +1,10 @@
+/**
+ * django styles
+ */
+
+body {
+  background: white url("images/bg.gif") repeat;
+}
+li a {
+  color: green;
+}
